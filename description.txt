@@ -1,0 +1,6 @@
+Approach:
+	Label Encoding: Encoded StringToExtract to numeric form
+	Feature Extraction: TF-IDF using custom tokenizer
+	Modeling & Predictions: XG-Boost
+
+Tools: Python 3.5 in Anaconda
